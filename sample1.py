@@ -1,0 +1,5 @@
+x=input('hello!,What is your favourite food?')
+y=input('what is your favorite hobby?')
+print(f'your favorite food is ',x)
+print(f'your favorite hobby is ',y)
+print(type(x,y))
