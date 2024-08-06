@@ -1,5 +1,4 @@
-# PRODIGY_CS_01
-Caesar cipher Encryption and Decryption
+#Caesar cipher Encryption and Decryption
 
 This python project implements the Caesar cipher algorithm to encrypt and decrypt text messages based on a specified shift value.
 
